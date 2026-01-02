@@ -7,5 +7,5 @@ pipeline {
                 echo "Hello, Jenkins"
             }
         }
-    // ❌ missing closing brace for pipeline
+    } 
 
